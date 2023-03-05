@@ -1,0 +1,6 @@
+﻿,car,person,road,sidewalk,parking
+car,,0,1,0,1
+person,0,,0,1,0
+road,1,0,,0,0
+sidewalk,0,1,0,,0
+parking,1,0,0,0,
